@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="InitShader.cpp" />
+    <ClCompile Include="LoadMesh.cpp" />
+    <ClCompile Include="LoadTexture.cpp" />
+    <ClCompile Include="VideoMux.cpp" />
+    <ClCompile Include="imgui\imgui.cpp">
+      <Filter>Imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui\imgui_demo.cpp">
+      <Filter>Imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui\imgui_draw.cpp">
+      <Filter>Imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui\imgui_impl_glut.cpp">
+      <Filter>Imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="imgui\imgui_widgets.cpp">
+      <Filter>Imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="DebugCallback\DebugCallback.cpp">
+      <Filter>DebugCallback</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Surf.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="InitShader.h" />
+    <ClInclude Include="LoadMesh.h" />
+    <ClInclude Include="LoadTexture.h" />
+    <ClInclude Include="VideoMux.h" />
+    <ClInclude Include="imgui\imgui.h">
+      <Filter>Imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\imconfig.h">
+      <Filter>Imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\imgui_impl_glut.h">
+      <Filter>Imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\imgui_internal.h">
+      <Filter>Imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\imstb_rectpack.h">
+      <Filter>Imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\imstb_textedit.h">
+      <Filter>Imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="imgui\imstb_truetype.h">
+      <Filter>Imgui</Filter>
+    </ClInclude>
+    <ClInclude Include="DebugCallback\DebugCallback.h">
+      <Filter>DebugCallback</Filter>
+    </ClInclude>
+    <ClInclude Include="Surf.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="template_fs.glsl">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="template_vs.glsl">
+      <Filter>Shaders</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Shaders">
+      <UniqueIdentifier>{df2ce7f1-5441-4053-bd30-f073abaabc8e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DebugCallback">
+      <UniqueIdentifier>{abe553a6-7f66-4b69-b85f-a1db8e3f0626}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Imgui">
+      <UniqueIdentifier>{e51ea67a-2939-4901-bd9b-05c3438ac26e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

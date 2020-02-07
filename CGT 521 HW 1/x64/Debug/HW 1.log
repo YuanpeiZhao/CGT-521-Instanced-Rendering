@@ -1,0 +1,228 @@
+﻿  521Template.cpp
+D:\Projects\CGT 521 HW 1\include\libavutil\rational.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  DebugCallback.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glut.cpp
+  imgui_widgets.cpp
+  InitShader.cpp
+  LoadMesh.cpp
+D:\Projects\CGT 521 HW 1\521Template.cpp(79,34): warning C4312: “类型强制转换”: 从“GLuint”转换到更大的“void *”
+D:\Projects\CGT 521 HW 1\LoadMesh.cpp(178,34): warning C4018: “<”: 有符号/无符号不匹配
+D:\Projects\CGT 521 HW 1\include\assimp\quaternion.inl(207,15): warning C4244: “=”: 从“double”转换到“TReal”，可能丢失数据
+D:\Projects\CGT 521 HW 1\include\assimp\quaternion.inl(207,15): warning C4244:         with
+D:\Projects\CGT 521 HW 1\include\assimp\quaternion.inl(207,15): warning C4244:         [
+D:\Projects\CGT 521 HW 1\include\assimp\quaternion.inl(207,15): warning C4244:             TReal=float
+D:\Projects\CGT 521 HW 1\include\assimp\quaternion.inl(207,15): warning C4244:         ]
+D:\Projects\CGT 521 HW 1\include\assimp\quaternion.inl(186): message : 在编译 类 模板 成员函数“void aiQuaterniont<float>::Interpolate(aiQuaterniont<float> &,const aiQuaterniont<float> &,const aiQuaterniont<float> &,TReal)”时
+D:\Projects\CGT 521 HW 1\include\assimp\quaternion.inl(186): message :         with
+D:\Projects\CGT 521 HW 1\include\assimp\quaternion.inl(186): message :         [
+D:\Projects\CGT 521 HW 1\include\assimp\quaternion.inl(186): message :             TReal=float
+D:\Projects\CGT 521 HW 1\include\assimp\quaternion.inl(186): message :         ]
+D:\Projects\CGT 521 HW 1\include\assimp\anim.h(435): message : 查看对正在编译的函数 模板 实例化“void aiQuaterniont<float>::Interpolate(aiQuaterniont<float> &,const aiQuaterniont<float> &,const aiQuaterniont<float> &,TReal)”的引用
+D:\Projects\CGT 521 HW 1\include\assimp\anim.h(435): message :         with
+D:\Projects\CGT 521 HW 1\include\assimp\anim.h(435): message :         [
+D:\Projects\CGT 521 HW 1\include\assimp\anim.h(435): message :             TReal=float
+D:\Projects\CGT 521 HW 1\include\assimp\anim.h(435): message :         ]
+D:\Projects\CGT 521 HW 1\include\assimp\anim.h(107): message : 查看对正在编译的 类 模板 实例化“aiQuaterniont<float>”的引用
+D:\Projects\CGT 521 HW 1\include\assimp\quaternion.inl(208,14): warning C4244: “=”: 从“double”转换到“TReal”，可能丢失数据
+D:\Projects\CGT 521 HW 1\include\assimp\quaternion.inl(208,14): warning C4244:         with
+D:\Projects\CGT 521 HW 1\include\assimp\quaternion.inl(208,14): warning C4244:         [
+D:\Projects\CGT 521 HW 1\include\assimp\quaternion.inl(208,14): warning C4244:             TReal=float
+D:\Projects\CGT 521 HW 1\include\assimp\quaternion.inl(208,14): warning C4244:         ]
+D:\Projects\CGT 521 HW 1\include\assimp\quaternion.inl(209,61): warning C4244: “=”: 从“double”转换到“TReal”，可能丢失数据
+D:\Projects\CGT 521 HW 1\include\assimp\quaternion.inl(209,61): warning C4244:         with
+D:\Projects\CGT 521 HW 1\include\assimp\quaternion.inl(209,61): warning C4244:         [
+D:\Projects\CGT 521 HW 1\include\assimp\quaternion.inl(209,61): warning C4244:             TReal=float
+D:\Projects\CGT 521 HW 1\include\assimp\quaternion.inl(209,61): warning C4244:         ]
+D:\Projects\CGT 521 HW 1\include\assimp\quaternion.inl(210,33): warning C4244: “=”: 从“double”转换到“TReal”，可能丢失数据
+D:\Projects\CGT 521 HW 1\include\assimp\quaternion.inl(210,33): warning C4244:         with
+D:\Projects\CGT 521 HW 1\include\assimp\quaternion.inl(210,33): warning C4244:         [
+D:\Projects\CGT 521 HW 1\include\assimp\quaternion.inl(210,33): warning C4244:             TReal=float
+D:\Projects\CGT 521 HW 1\include\assimp\quaternion.inl(210,33): warning C4244:         ]
+D:\Projects\CGT 521 HW 1\include\assimp\vector3.inl(93,13): warning C4244: “return”: 从“double”转换到“TReal”，可能丢失数据
+D:\Projects\CGT 521 HW 1\include\assimp\vector3.inl(93,13): warning C4244:         with
+D:\Projects\CGT 521 HW 1\include\assimp\vector3.inl(93,13): warning C4244:         [
+D:\Projects\CGT 521 HW 1\include\assimp\vector3.inl(93,13): warning C4244:             TReal=float
+D:\Projects\CGT 521 HW 1\include\assimp\vector3.inl(93,13): warning C4244:         ]
+D:\Projects\CGT 521 HW 1\include\assimp\vector3.inl(92): message : 在编译 类 模板 成员函数“TReal aiVector3t<TReal>::Length(void) const”时
+D:\Projects\CGT 521 HW 1\include\assimp\vector3.inl(92): message :         with
+D:\Projects\CGT 521 HW 1\include\assimp\vector3.inl(92): message :         [
+D:\Projects\CGT 521 HW 1\include\assimp\vector3.inl(92): message :             TReal=float
+D:\Projects\CGT 521 HW 1\include\assimp\vector3.inl(92): message :         ]
+D:\Projects\CGT 521 HW 1\include\assimp\vector3.inl(98): message : 查看对正在编译的函数 模板 实例化“TReal aiVector3t<TReal>::Length(void) const”的引用
+D:\Projects\CGT 521 HW 1\include\assimp\vector3.inl(98): message :         with
+D:\Projects\CGT 521 HW 1\include\assimp\vector3.inl(98): message :         [
+D:\Projects\CGT 521 HW 1\include\assimp\vector3.inl(98): message :             TReal=float
+D:\Projects\CGT 521 HW 1\include\assimp\vector3.inl(98): message :         ]
+D:\Projects\CGT 521 HW 1\include\assimp\vector3.inl(142): message : 在编译 类 模板 成员函数“bool aiVector3t<float>::operator ==(const aiVector3t<float> &) const”时
+D:\Projects\CGT 521 HW 1\include\assimp\anim.h(82): message : 查看对正在编译的函数 模板 实例化“bool aiVector3t<float>::operator ==(const aiVector3t<float> &) const”的引用
+  LoadTexture.cpp
+D:\Projects\CGT 521 HW 1\include\assimp\types.h(150): message : 查看对正在编译的 类 模板 实例化“aiVector3t<float>”的引用
+  VideoMux.cpp
+D:\Projects\CGT 521 HW 1\include\FreeImage.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Projects\CGT 521 HW 1\include\libavutil\rational.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Projects\CGT 521 HW 1\VideoMux.cpp(187,34): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Projects\CGT 521 HW 1\VideoMux.cpp(189,52): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Projects\CGT 521 HW 1\VideoMux.cpp(233,7): warning C4244: “参数”: 从“double”转换到“int64_t”，可能丢失数据
+D:\Projects\CGT 521 HW 1\VideoMux.cpp(264,38): warning C4244: “=”: 从“int64_t”转换到“int”，可能丢失数据
+D:\Projects\CGT 521 HW 1\VideoMux.cpp(288,1): warning C4996: 'avcodec_encode_audio2': 被声明为已否决
+D:\Projects\CGT 521 HW 1\include\libavcodec\avcodec.h(5283): message : 参见“avcodec_encode_audio2”的声明
+D:\Projects\CGT 521 HW 1\VideoMux.cpp(389,7): warning C4244: “参数”: 从“double”转换到“int64_t”，可能丢失数据
+D:\Projects\CGT 521 HW 1\VideoMux.cpp(412,41): warning C4244: “参数”: 从“int64_t”转换到“int”，可能丢失数据
+D:\Projects\CGT 521 HW 1\VideoMux.cpp(438,1): warning C4996: 'avcodec_encode_video2': 被声明为已否决
+  正在生成代码...
+D:\Projects\CGT 521 HW 1\include\libavcodec\avcodec.h(5322): message : 参见“avcodec_encode_video2”的声明
+D:\Projects\CGT 521 HW 1\VideoMux.cpp(532): warning C4700: 使用了未初始化的局部变量“audio_codec”
+521Template.obj : error LNK2019: 无法解析的外部符号 __imp_glewInit，该符号在函数 "void __cdecl initOpenGl(void)" (?initOpenGl@@YAXXZ) 中被引用
+521Template.obj : error LNK2019: 无法解析的外部符号 __imp_glutInitWindowPosition，该符号在函数 main 中被引用
+521Template.obj : error LNK2019: 无法解析的外部符号 __imp_glutInitWindowSize，该符号在函数 main 中被引用
+521Template.obj : error LNK2019: 无法解析的外部符号 __imp_glutInitDisplayMode，该符号在函数 main 中被引用
+521Template.obj : error LNK2019: 无法解析的外部符号 __imp_glutMainLoop，该符号在函数 main 中被引用
+521Template.obj : error LNK2019: 无法解析的外部符号 __imp_glutDestroyWindow，该符号在函数 main 中被引用
+521Template.obj : error LNK2019: 无法解析的外部符号 __imp_glutPostRedisplay，该符号在函数 "void __cdecl idle(void)" (?idle@@YAXXZ) 中被引用
+521Template.obj : error LNK2019: 无法解析的外部符号 __imp_glutSwapBuffers，该符号在函数 "void __cdecl display(void)" (?display@@YAXXZ) 中被引用
+521Template.obj : error LNK2019: 无法解析的外部符号 __imp_glutIdleFunc，该符号在函数 main 中被引用
+521Template.obj : error LNK2019: 无法解析的外部符号 __imp_glutKeyboardFunc，该符号在函数 main 中被引用
+521Template.obj : error LNK2019: 无法解析的外部符号 __imp_glutSpecialFunc，该符号在函数 main 中被引用
+521Template.obj : error LNK2019: 无法解析的外部符号 __imp_glutDisplayFunc，该符号在函数 main 中被引用
+521Template.obj : error LNK2019: 无法解析的外部符号 __imp_glutMouseFunc，该符号在函数 main 中被引用
+521Template.obj : error LNK2019: 无法解析的外部符号 __imp_glutMotionFunc，该符号在函数 main 中被引用
+521Template.obj : error LNK2019: 无法解析的外部符号 __imp_glutPassiveMotionFunc，该符号在函数 main 中被引用
+521Template.obj : error LNK2019: 无法解析的外部符号 __imp_glutKeyboardUpFunc，该符号在函数 main 中被引用
+521Template.obj : error LNK2019: 无法解析的外部符号 __imp_glutSpecialUpFunc，该符号在函数 main 中被引用
+521Template.obj : error LNK2019: 无法解析的外部符号 __imp_glutGet，该符号在函数 "void __cdecl display(void)" (?display@@YAXXZ) 中被引用
+imgui_impl_glut.obj : error LNK2001: 无法解析的外部符号 __imp_glutGet
+521Template.obj : error LNK2019: 无法解析的外部符号 __imp___glutInitWithExit，该符号在函数 glutInit_ATEXIT_HACK 中被引用
+521Template.obj : error LNK2019: 无法解析的外部符号 __imp___glutCreateWindowWithExit，该符号在函数 glutCreateWindow_ATEXIT_HACK 中被引用
+521Template.obj : error LNK2019: 无法解析的外部符号 __imp_glutInitContextVersion，该符号在函数 main 中被引用
+521Template.obj : error LNK2019: 无法解析的外部符号 __imp_glutInitContextFlags，该符号在函数 main 中被引用
+521Template.obj : error LNK2001: 无法解析的外部符号 __imp___glewActiveTexture
+imgui_impl_glut.obj : error LNK2001: 无法解析的外部符号 __imp___glewActiveTexture
+521Template.obj : error LNK2001: 无法解析的外部符号 __imp___glewDeleteProgram
+imgui_impl_glut.obj : error LNK2001: 无法解析的外部符号 __imp___glewDeleteProgram
+521Template.obj : error LNK2001: 无法解析的外部符号 __imp___glewUniform1f
+521Template.obj : error LNK2001: 无法解析的外部符号 __imp___glewUniform1i
+imgui_impl_glut.obj : error LNK2001: 无法解析的外部符号 __imp___glewUniform1i
+521Template.obj : error LNK2001: 无法解析的外部符号 __imp___glewUniformMatrix4fv
+imgui_impl_glut.obj : error LNK2001: 无法解析的外部符号 __imp___glewUniformMatrix4fv
+521Template.obj : error LNK2001: 无法解析的外部符号 __imp___glewUseProgram
+imgui_impl_glut.obj : error LNK2001: 无法解析的外部符号 __imp___glewUseProgram
+InitShader.obj : error LNK2001: 无法解析的外部符号 __imp___glewUseProgram
+521Template.obj : error LNK2001: 无法解析的外部符号 __imp___glewBindVertexArray
+imgui_impl_glut.obj : error LNK2001: 无法解析的外部符号 __imp___glewBindVertexArray
+LoadMesh.obj : error LNK2001: 无法解析的外部符号 __imp___glewBindVertexArray
+DebugCallback.obj : error LNK2001: 无法解析的外部符号 __imp___glewDebugMessageCallback
+DebugCallback.obj : error LNK2001: 无法解析的外部符号 __imp___glewDebugMessageControl
+imgui_impl_glut.obj : error LNK2019: 无法解析的外部符号 __imp_glutSetCursor，该符号在函数 "void __cdecl ImGui_ImplGlut_NewFrame(void)" (?ImGui_ImplGlut_NewFrame@@YAXXZ) 中被引用
+imgui_impl_glut.obj : error LNK2019: 无法解析的外部符号 __imp_glutGetModifiers，该符号在函数 "void __cdecl ImGui_ImplGlut_KeyCallback(unsigned int)" (?ImGui_ImplGlut_KeyCallback@@YAXI@Z) 中被引用
+imgui_impl_glut.obj : error LNK2001: 无法解析的外部符号 __imp___glewBlendEquation
+imgui_impl_glut.obj : error LNK2001: 无法解析的外部符号 __imp___glewBindBuffer
+LoadMesh.obj : error LNK2001: 无法解析的外部符号 __imp___glewBindBuffer
+imgui_impl_glut.obj : error LNK2001: 无法解析的外部符号 __imp___glewBufferData
+LoadMesh.obj : error LNK2001: 无法解析的外部符号 __imp___glewBufferData
+imgui_impl_glut.obj : error LNK2001: 无法解析的外部符号 __imp___glewDeleteBuffers
+LoadMesh.obj : error LNK2001: 无法解析的外部符号 __imp___glewDeleteBuffers
+imgui_impl_glut.obj : error LNK2001: 无法解析的外部符号 __imp___glewGenBuffers
+LoadMesh.obj : error LNK2001: 无法解析的外部符号 __imp___glewGenBuffers
+imgui_impl_glut.obj : error LNK2001: 无法解析的外部符号 __imp___glewAttachShader
+InitShader.obj : error LNK2001: 无法解析的外部符号 __imp___glewAttachShader
+imgui_impl_glut.obj : error LNK2001: 无法解析的外部符号 __imp___glewBlendEquationSeparate
+imgui_impl_glut.obj : error LNK2001: 无法解析的外部符号 __imp___glewCompileShader
+InitShader.obj : error LNK2001: 无法解析的外部符号 __imp___glewCompileShader
+imgui_impl_glut.obj : error LNK2001: 无法解析的外部符号 __imp___glewCreateProgram
+InitShader.obj : error LNK2001: 无法解析的外部符号 __imp___glewCreateProgram
+imgui_impl_glut.obj : error LNK2001: 无法解析的外部符号 __imp___glewCreateShader
+InitShader.obj : error LNK2001: 无法解析的外部符号 __imp___glewCreateShader
+imgui_impl_glut.obj : error LNK2001: 无法解析的外部符号 __imp___glewDeleteShader
+imgui_impl_glut.obj : error LNK2001: 无法解析的外部符号 __imp___glewDetachShader
+imgui_impl_glut.obj : error LNK2001: 无法解析的外部符号 __imp___glewEnableVertexAttribArray
+LoadMesh.obj : error LNK2001: 无法解析的外部符号 __imp___glewEnableVertexAttribArray
+imgui_impl_glut.obj : error LNK2001: 无法解析的外部符号 __imp___glewGetAttribLocation
+imgui_impl_glut.obj : error LNK2001: 无法解析的外部符号 __imp___glewGetUniformLocation
+imgui_impl_glut.obj : error LNK2001: 无法解析的外部符号 __imp___glewLinkProgram
+InitShader.obj : error LNK2001: 无法解析的外部符号 __imp___glewLinkProgram
+imgui_impl_glut.obj : error LNK2001: 无法解析的外部符号 __imp___glewShaderSource
+InitShader.obj : error LNK2001: 无法解析的外部符号 __imp___glewShaderSource
+imgui_impl_glut.obj : error LNK2001: 无法解析的外部符号 __imp___glewVertexAttribPointer
+LoadMesh.obj : error LNK2001: 无法解析的外部符号 __imp___glewVertexAttribPointer
+imgui_impl_glut.obj : error LNK2001: 无法解析的外部符号 __imp___glewDeleteVertexArrays
+LoadMesh.obj : error LNK2001: 无法解析的外部符号 __imp___glewDeleteVertexArrays
+imgui_impl_glut.obj : error LNK2001: 无法解析的外部符号 __imp___glewGenVertexArrays
+LoadMesh.obj : error LNK2001: 无法解析的外部符号 __imp___glewGenVertexArrays
+InitShader.obj : error LNK2001: 无法解析的外部符号 __imp___glewGetProgramInfoLog
+InitShader.obj : error LNK2001: 无法解析的外部符号 __imp___glewGetProgramiv
+InitShader.obj : error LNK2001: 无法解析的外部符号 __imp___glewGetShaderInfoLog
+InitShader.obj : error LNK2001: 无法解析的外部符号 __imp___glewGetShaderiv
+LoadMesh.obj : error LNK2019: 无法解析的外部符号 "public: __cdecl Assimp::Importer::Importer(void)" (??0Importer@Assimp@@QEAA@XZ)，该符号在函数 "void __cdecl `dynamic initializer for 'gImporter''(void)" (??__EgImporter@@YAXXZ) 中被引用
+LoadMesh.obj : error LNK2019: 无法解析的外部符号 "public: __cdecl Assimp::Importer::~Importer(void)" (??1Importer@Assimp@@QEAA@XZ)，该符号在函数 "void __cdecl `dynamic atexit destructor for 'gImporter''(void)" (??__FgImporter@@YAXXZ) 中被引用
+LoadMesh.obj : error LNK2019: 无法解析的外部符号 "public: struct aiScene const * __cdecl Assimp::Importer::ReadFile(char const *,unsigned int)" (?ReadFile@Importer@Assimp@@QEAAPEBUaiScene@@PEBDI@Z)，该符号在函数 "public: struct aiScene const * __cdecl Assimp::Importer::ReadFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,unsigned int)" (?ReadFile@Importer@Assimp@@QEAAPEBUaiScene@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@I@Z) 中被引用
+LoadMesh.obj : error LNK2019: 无法解析的外部符号 "public: char const * __cdecl Assimp::Importer::GetErrorString(void)const " (?GetErrorString@Importer@Assimp@@QEBAPEBDXZ)，该符号在函数 "struct MeshData __cdecl LoadMesh(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?LoadMesh@@YA?AUMeshData@@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) 中被引用
+LoadMesh.obj : error LNK2001: 无法解析的外部符号 __imp___glewBufferSubData
+LoadMesh.obj : error LNK2001: 无法解析的外部符号 __imp___glewBindAttribLocation
+LoadMesh.obj : error LNK2001: 无法解析的外部符号 __imp___glewDrawElementsBaseVertex
+LoadTexture.obj : error LNK2019: 无法解析的外部符号 __imp_FreeImage_Unload，该符号在函数 "unsigned int __cdecl LoadTexture(char const *)" (?LoadTexture@@YAIPEBD@Z) 中被引用
+LoadTexture.obj : error LNK2019: 无法解析的外部符号 __imp_FreeImage_Load，该符号在函数 "unsigned int __cdecl LoadTexture(char const *)" (?LoadTexture@@YAIPEBD@Z) 中被引用
+LoadTexture.obj : error LNK2019: 无法解析的外部符号 __imp_FreeImage_GetFileType，该符号在函数 "unsigned int __cdecl LoadTexture(char const *)" (?LoadTexture@@YAIPEBD@Z) 中被引用
+LoadTexture.obj : error LNK2019: 无法解析的外部符号 __imp_FreeImage_GetWidth，该符号在函数 "unsigned int __cdecl LoadTexture(char const *)" (?LoadTexture@@YAIPEBD@Z) 中被引用
+LoadTexture.obj : error LNK2019: 无法解析的外部符号 __imp_FreeImage_GetHeight，该符号在函数 "unsigned int __cdecl LoadTexture(char const *)" (?LoadTexture@@YAIPEBD@Z) 中被引用
+LoadTexture.obj : error LNK2019: 无法解析的外部符号 __imp_FreeImage_GetPitch，该符号在函数 "unsigned int __cdecl LoadTexture(char const *)" (?LoadTexture@@YAIPEBD@Z) 中被引用
+LoadTexture.obj : error LNK2019: 无法解析的外部符号 __imp_FreeImage_ConvertTo32Bits，该符号在函数 "unsigned int __cdecl LoadTexture(char const *)" (?LoadTexture@@YAIPEBD@Z) 中被引用
+LoadTexture.obj : error LNK2019: 无法解析的外部符号 __imp_FreeImage_ConvertToRawBits，该符号在函数 "unsigned int __cdecl LoadTexture(char const *)" (?LoadTexture@@YAIPEBD@Z) 中被引用
+VideoMux.obj : error LNK2019: 无法解析的外部符号 av_strerror，该符号在函数 av_make_error_string 中被引用
+VideoMux.obj : error LNK2019: 无法解析的外部符号 av_rescale_rnd，该符号在函数 "int __cdecl write_audio_frame(struct AVFormatContext *,struct OutputStream *)" (?write_audio_frame@@YAHPEAUAVFormatContext@@PEAUOutputStream@@@Z) 中被引用
+VideoMux.obj : error LNK2019: 无法解析的外部符号 av_rescale_q，该符号在函数 "int __cdecl write_audio_frame(struct AVFormatContext *,struct OutputStream *)" (?write_audio_frame@@YAHPEAUAVFormatContext@@PEAUOutputStream@@@Z) 中被引用
+VideoMux.obj : error LNK2019: 无法解析的外部符号 av_compare_ts，该符号在函数 "void __cdecl encode_frame(unsigned char *)" (?encode_frame@@YAXPEAE@Z) 中被引用
+VideoMux.obj : error LNK2019: 无法解析的外部符号 av_log，该符号在函数 "int __cdecl write_audio_frame(struct AVFormatContext *,struct OutputStream *)" (?write_audio_frame@@YAHPEAUAVFormatContext@@PEAUOutputStream@@@Z) 中被引用
+VideoMux.obj : error LNK2019: 无法解析的外部符号 av_get_channel_layout_nb_channels，该符号在函数 "void __cdecl add_stream(struct OutputStream *,struct AVFormatContext *,struct AVCodec * *,enum AVCodecID,int,int)" (?add_stream@@YAXPEAUOutputStream@@PEAUAVFormatContext@@PEAPEAUAVCodec@@W4AVCodecID@@HH@Z) 中被引用
+VideoMux.obj : error LNK2019: 无法解析的外部符号 av_dict_copy，该符号在函数 "void __cdecl open_audio(struct AVFormatContext *,struct AVCodec *,struct OutputStream *,struct AVDictionary *)" (?open_audio@@YAXPEAUAVFormatContext@@PEAUAVCodec@@PEAUOutputStream@@PEAUAVDictionary@@@Z) 中被引用
+VideoMux.obj : error LNK2019: 无法解析的外部符号 av_dict_free，该符号在函数 "void __cdecl open_audio(struct AVFormatContext *,struct AVCodec *,struct OutputStream *,struct AVDictionary *)" (?open_audio@@YAXPEAUAVFormatContext@@PEAUAVCodec@@PEAUOutputStream@@PEAUAVDictionary@@@Z) 中被引用
+VideoMux.obj : error LNK2019: 无法解析的外部符号 av_opt_set_int，该符号在函数 "void __cdecl open_audio(struct AVFormatContext *,struct AVCodec *,struct OutputStream *,struct AVDictionary *)" (?open_audio@@YAXPEAUAVFormatContext@@PEAUAVCodec@@PEAUOutputStream@@PEAUAVDictionary@@@Z) 中被引用
+VideoMux.obj : error LNK2019: 无法解析的外部符号 av_opt_set_sample_fmt，该符号在函数 "void __cdecl open_audio(struct AVFormatContext *,struct AVCodec *,struct OutputStream *,struct AVDictionary *)" (?open_audio@@YAXPEAUAVFormatContext@@PEAUAVCodec@@PEAUOutputStream@@PEAUAVDictionary@@@Z) 中被引用
+VideoMux.obj : error LNK2019: 无法解析的外部符号 av_frame_alloc，该符号在函数 "struct AVFrame * __cdecl alloc_audio_frame(enum AVSampleFormat,unsigned __int64,int,int)" (?alloc_audio_frame@@YAPEAUAVFrame@@W4AVSampleFormat@@_KHH@Z) 中被引用
+VideoMux.obj : error LNK2019: 无法解析的外部符号 av_frame_free，该符号在函数 "void __cdecl close_stream(struct AVFormatContext *,struct OutputStream *)" (?close_stream@@YAXPEAUAVFormatContext@@PEAUOutputStream@@@Z) 中被引用
+VideoMux.obj : error LNK2019: 无法解析的外部符号 av_frame_get_buffer，该符号在函数 "struct AVFrame * __cdecl alloc_audio_frame(enum AVSampleFormat,unsigned __int64,int,int)" (?alloc_audio_frame@@YAPEAUAVFrame@@W4AVSampleFormat@@_KHH@Z) 中被引用
+VideoMux.obj : error LNK2019: 无法解析的外部符号 av_frame_make_writable，该符号在函数 "struct AVFrame * __cdecl get_video_frame(struct OutputStream *)" (?get_video_frame@@YAPEAUAVFrame@@PEAUOutputStream@@@Z) 中被引用
+VideoMux.obj : error LNK2019: 无法解析的外部符号 avcodec_alloc_context3，该符号在函数 "void __cdecl add_stream(struct OutputStream *,struct AVFormatContext *,struct AVCodec * *,enum AVCodecID,int,int)" (?add_stream@@YAXPEAUOutputStream@@PEAUAVFormatContext@@PEAPEAUAVCodec@@W4AVCodecID@@HH@Z) 中被引用
+VideoMux.obj : error LNK2019: 无法解析的外部符号 avcodec_free_context，该符号在函数 "void __cdecl close_stream(struct AVFormatContext *,struct OutputStream *)" (?close_stream@@YAXPEAUAVFormatContext@@PEAUOutputStream@@@Z) 中被引用
+VideoMux.obj : error LNK2019: 无法解析的外部符号 avcodec_parameters_from_context，该符号在函数 "void __cdecl open_audio(struct AVFormatContext *,struct AVCodec *,struct OutputStream *,struct AVDictionary *)" (?open_audio@@YAXPEAUAVFormatContext@@PEAUAVCodec@@PEAUOutputStream@@PEAUAVDictionary@@@Z) 中被引用
+VideoMux.obj : error LNK2019: 无法解析的外部符号 avcodec_open2，该符号在函数 "void __cdecl open_audio(struct AVFormatContext *,struct AVCodec *,struct OutputStream *,struct AVDictionary *)" (?open_audio@@YAXPEAUAVFormatContext@@PEAUAVCodec@@PEAUOutputStream@@PEAUAVDictionary@@@Z) 中被引用
+VideoMux.obj : error LNK2019: 无法解析的外部符号 av_init_packet，该符号在函数 "int __cdecl write_audio_frame(struct AVFormatContext *,struct OutputStream *)" (?write_audio_frame@@YAHPEAUAVFormatContext@@PEAUOutputStream@@@Z) 中被引用
+VideoMux.obj : error LNK2019: 无法解析的外部符号 av_packet_rescale_ts，该符号在函数 "int __cdecl write_frame(struct AVFormatContext *,struct AVRational const *,struct AVStream *,struct AVPacket *)" (?write_frame@@YAHPEAUAVFormatContext@@PEBUAVRational@@PEAUAVStream@@PEAUAVPacket@@@Z) 中被引用
+VideoMux.obj : error LNK2019: 无法解析的外部符号 avcodec_find_encoder，该符号在函数 "void __cdecl add_stream(struct OutputStream *,struct AVFormatContext *,struct AVCodec * *,enum AVCodecID,int,int)" (?add_stream@@YAXPEAUOutputStream@@PEAUAVFormatContext@@PEAPEAUAVCodec@@W4AVCodecID@@HH@Z) 中被引用
+VideoMux.obj : error LNK2019: 无法解析的外部符号 avcodec_encode_audio2，该符号在函数 "int __cdecl write_audio_frame(struct AVFormatContext *,struct OutputStream *)" (?write_audio_frame@@YAHPEAUAVFormatContext@@PEAUOutputStream@@@Z) 中被引用
+VideoMux.obj : error LNK2019: 无法解析的外部符号 avcodec_encode_video2，该符号在函数 "int __cdecl write_video_frame(struct AVFormatContext *,struct OutputStream *)" (?write_video_frame@@YAHPEAUAVFormatContext@@PEAUOutputStream@@@Z) 中被引用
+VideoMux.obj : error LNK2019: 无法解析的外部符号 avcodec_get_name，该符号在函数 "void __cdecl add_stream(struct OutputStream *,struct AVFormatContext *,struct AVCodec * *,enum AVCodecID,int,int)" (?add_stream@@YAXPEAUOutputStream@@PEAUAVFormatContext@@PEAPEAUAVCodec@@W4AVCodecID@@HH@Z) 中被引用
+VideoMux.obj : error LNK2019: 无法解析的外部符号 avio_open，该符号在函数 "int __cdecl main_test(void)" (?main_test@@YAHXZ) 中被引用
+VideoMux.obj : error LNK2019: 无法解析的外部符号 avio_closep，该符号在函数 "void __cdecl finish_encoding(void)" (?finish_encoding@@YAXXZ) 中被引用
+VideoMux.obj : error LNK2019: 无法解析的外部符号 av_register_all，该符号在函数 "int __cdecl main_test(void)" (?main_test@@YAHXZ) 中被引用
+VideoMux.obj : error LNK2019: 无法解析的外部符号 avformat_free_context，该符号在函数 "void __cdecl finish_encoding(void)" (?finish_encoding@@YAXXZ) 中被引用
+VideoMux.obj : error LNK2019: 无法解析的外部符号 avformat_new_stream，该符号在函数 "void __cdecl add_stream(struct OutputStream *,struct AVFormatContext *,struct AVCodec * *,enum AVCodecID,int,int)" (?add_stream@@YAXPEAUOutputStream@@PEAUAVFormatContext@@PEAPEAUAVCodec@@W4AVCodecID@@HH@Z) 中被引用
+VideoMux.obj : error LNK2019: 无法解析的外部符号 avformat_alloc_output_context2，该符号在函数 "int __cdecl main_test(void)" (?main_test@@YAHXZ) 中被引用
+VideoMux.obj : error LNK2019: 无法解析的外部符号 avformat_write_header，该符号在函数 "int __cdecl main_test(void)" (?main_test@@YAHXZ) 中被引用
+VideoMux.obj : error LNK2019: 无法解析的外部符号 av_interleaved_write_frame，该符号在函数 "int __cdecl write_frame(struct AVFormatContext *,struct AVRational const *,struct AVStream *,struct AVPacket *)" (?write_frame@@YAHPEAUAVFormatContext@@PEBUAVRational@@PEAUAVStream@@PEAUAVPacket@@@Z) 中被引用
+VideoMux.obj : error LNK2019: 无法解析的外部符号 av_write_trailer，该符号在函数 "void __cdecl finish_encoding(void)" (?finish_encoding@@YAXXZ) 中被引用
+VideoMux.obj : error LNK2019: 无法解析的外部符号 av_dump_format，该符号在函数 "int __cdecl main_test(void)" (?main_test@@YAHXZ) 中被引用
+VideoMux.obj : error LNK2019: 无法解析的外部符号 sws_freeContext，该符号在函数 "void __cdecl close_stream(struct AVFormatContext *,struct OutputStream *)" (?close_stream@@YAXPEAUAVFormatContext@@PEAUOutputStream@@@Z) 中被引用
+VideoMux.obj : error LNK2019: 无法解析的外部符号 sws_getContext，该符号在函数 "struct AVFrame * __cdecl get_video_frame(struct OutputStream *)" (?get_video_frame@@YAPEAUAVFrame@@PEAUOutputStream@@@Z) 中被引用
+VideoMux.obj : error LNK2019: 无法解析的外部符号 sws_scale，该符号在函数 "void __cdecl frame_yuv_from_rgb(unsigned char *)" (?frame_yuv_from_rgb@@YAXPEAE@Z) 中被引用
+VideoMux.obj : error LNK2019: 无法解析的外部符号 sws_getCachedContext，该符号在函数 "void __cdecl frame_yuv_from_rgb(unsigned char *)" (?frame_yuv_from_rgb@@YAXPEAE@Z) 中被引用
+VideoMux.obj : error LNK2019: 无法解析的外部符号 swr_alloc，该符号在函数 "void __cdecl open_audio(struct AVFormatContext *,struct AVCodec *,struct OutputStream *,struct AVDictionary *)" (?open_audio@@YAXPEAUAVFormatContext@@PEAUAVCodec@@PEAUOutputStream@@PEAUAVDictionary@@@Z) 中被引用
+VideoMux.obj : error LNK2019: 无法解析的外部符号 swr_init，该符号在函数 "void __cdecl open_audio(struct AVFormatContext *,struct AVCodec *,struct OutputStream *,struct AVDictionary *)" (?open_audio@@YAXPEAUAVFormatContext@@PEAUAVCodec@@PEAUOutputStream@@PEAUAVDictionary@@@Z) 中被引用
+VideoMux.obj : error LNK2019: 无法解析的外部符号 swr_free，该符号在函数 "void __cdecl close_stream(struct AVFormatContext *,struct OutputStream *)" (?close_stream@@YAXPEAUAVFormatContext@@PEAUOutputStream@@@Z) 中被引用
+VideoMux.obj : error LNK2019: 无法解析的外部符号 swr_convert，该符号在函数 "int __cdecl write_audio_frame(struct AVFormatContext *,struct OutputStream *)" (?write_audio_frame@@YAHPEAUAVFormatContext@@PEAUOutputStream@@@Z) 中被引用
+VideoMux.obj : error LNK2019: 无法解析的外部符号 swr_get_delay，该符号在函数 "int __cdecl write_audio_frame(struct AVFormatContext *,struct OutputStream *)" (?write_audio_frame@@YAHPEAUAVFormatContext@@PEAUOutputStream@@@Z) 中被引用
+D:\Projects\CGT 521 HW 1\\lib\assimp.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+D:\Projects\CGT 521 HW 1\\lib\avcodec.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+D:\Projects\CGT 521 HW 1\\lib\avdevice.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+D:\Projects\CGT 521 HW 1\\lib\avfilter.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+D:\Projects\CGT 521 HW 1\\lib\avformat.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+D:\Projects\CGT 521 HW 1\\lib\avutil.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+D:\Projects\CGT 521 HW 1\\lib\freeglut.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+D:\Projects\CGT 521 HW 1\\lib\FreeImage.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+D:\Projects\CGT 521 HW 1\\lib\glew32.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+D:\Projects\CGT 521 HW 1\\lib\postproc.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+D:\Projects\CGT 521 HW 1\\lib\swresample.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+D:\Projects\CGT 521 HW 1\\lib\swscale.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+D:\Projects\CGT 521 HW 1\x64\Debug\HW 1.exe : fatal error LNK1120: 115 个无法解析的外部命令
